@@ -1,6 +1,3 @@
 # my project
 
 ciaone
-
-
-asdasd
